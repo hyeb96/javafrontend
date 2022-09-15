@@ -1,0 +1,15 @@
+#search-bar {
+    display: flex;
+    width: 30vw;
+}
+
+#search-bar input {
+    border: none;
+}
+
+#search-icon {
+    font-size: 45px;
+    background-color: white;
+    color: rgb(154, 171, 158);
+    padding: 10px;
+}

@@ -1,0 +1,41 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+
+nav {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(231, 231, 231, 0);
+    width: 100%;
+    position: absolute;
+}
+
+#logo {
+    margin: auto;
+}
+
+#logo-image {
+    width: 170px;
+}
+
+ul {
+    display: flex;
+    font-size: 30px;
+    margin: auto;
+}
+
+li {
+    padding: 5px;
+    list-style: none;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b1d0b6;
+}

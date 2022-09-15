@@ -1,0 +1,22 @@
+.anchor {
+    height: 170px;
+}
+
+#restaurant-container {
+    padding: 20px;
+    display: flex;
+    max-height: 85vh;
+}
+
+
+#list {
+    overflow: scroll;
+    overflow-x: hidden;
+    width: 35%;
+    padding-right: 20px;
+}
+
+#map {
+    margin: auto;
+    width: 100%;
+}

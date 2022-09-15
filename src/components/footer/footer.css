@@ -1,0 +1,37 @@
+footer {
+    background-color: rgb(197, 213, 197);
+    overflow: hidden;
+}
+
+#footer-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#footer-logo {
+    width: 120px;
+    margin: auto;
+}
+
+footer h1,
+p {
+    text-align: center;
+}
+
+#footer-info {
+    /* width: 100px; */
+    margin: auto;
+}
+
+#socials {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    width: 180px;
+}
+
+.social-icons {
+    margin-right: 5px;
+    color: rgb(99, 119, 99);
+}

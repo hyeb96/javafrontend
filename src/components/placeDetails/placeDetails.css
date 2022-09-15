@@ -1,0 +1,42 @@
+img {
+    width: 100%;
+}
+
+#card {
+    width: 20rem;
+    padding: 20px;
+    background-color: rgb(242, 242, 242);
+}
+
+#card h1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+#list-container {
+    padding: 5px;
+    background-color: white;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+}
+
+#price {
+    padding-top: 5px;
+}
+
+.list-group p {
+    text-align: left;
+}
+
+.list-group button {
+    border: none;
+}
+
+.icons {
+    color: rgb(133, 145, 133);
+    font-size: 20px;
+    margin-right: 5px;
+}
